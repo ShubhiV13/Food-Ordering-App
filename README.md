@@ -35,15 +35,14 @@ This is an Android application developed using Kotlin, designed to allow users t
 - `splashscreen.png`: Splash screen image for app launch.
 
 ## Screenshots
-![Splash Screen](splashscreen.png)  
-![Main Page](rest1.png)  
-![Confirm Order Page](rest2.png)  
-![Payment Confirmation Page](rest3.png)  
-![Login Page](rest4.png)  
-![Sign Up Page](rest5.png)  
+<img src="splashscreen.png" alt="Splash Screen" width="300"/>  
+<img src="rest1.png" alt="Main Page" width="300"/>  
+<img src="rest2.png" alt="Confirm Order Page" width="300"/>  
+<img src="rest3.png" alt="Payment Confirmation Page" width="300"/>  
+<img src="rest4.png" alt="Login Page" width="300"/>  
+<img src="rest5.png" alt="Sign Up Page" width="300"/>  
 
 *Note: These screenshots enhance the visual appeal and demonstrate the app's interface.* 
-*Note: These screenshots enhance the visual appeal and demonstrate the app's interface.*
 
 ## Future Improvements
 - Add a cart management system with real-time updates.
