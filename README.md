@@ -36,11 +36,13 @@ This is an Android application developed using Kotlin, designed to allow users t
 
 ## Screenshots
 ![Splash Screen](splashscreen.png)  
-![Main page](rest1.png)  
-![Confirm order page](rest2.png)  
-![Payment confirmation page](rest3.png)  
-![Login page](rest4.png)  
-![Sign up page](rest5.png)  
+![Main Page](rest1.png)  
+![Confirm Order Page](rest2.png)  
+![Payment Confirmation Page](rest3.png)  
+![Login Page](rest4.png)  
+![Sign Up Page](rest5.png)  
+
+*Note: These screenshots enhance the visual appeal and demonstrate the app's interface.* 
 *Note: These screenshots enhance the visual appeal and demonstrate the app's interface.*
 
 ## Future Improvements
