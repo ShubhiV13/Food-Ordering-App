@@ -36,11 +36,11 @@ This is an Android application developed using Kotlin, designed to allow users t
 
 ## Screenshots
 <img src="splashscreen.png" alt="Splash Screen" width="300"/>  
+<img src="rest4.png" alt="Login Page" width="300"/>  
+<img src="rest5.png" alt="Sign Up Page" width="300"/>  
 <img src="rest1.png" alt="Main Page" width="300"/>  
 <img src="rest2.png" alt="Confirm Order Page" width="300"/>  
 <img src="rest3.png" alt="Payment Confirmation Page" width="300"/>  
-<img src="rest4.png" alt="Login Page" width="300"/>  
-<img src="rest5.png" alt="Sign Up Page" width="300"/>  
 
 *Note: These screenshots enhance the visual appeal and demonstrate the app's interface.* 
 
